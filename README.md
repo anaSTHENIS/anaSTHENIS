@@ -86,19 +86,34 @@
 </div>
 
 ---
-
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anasthenis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasthenis&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+  
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=anasthenis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasthenis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasthenis&theme=tokyonight" alt="anasthenis" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anasthenis&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anasthenis&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
 </div>
 
 ---
+
+<div align="center">
+
+
 
 ## 🤝 Connect with me
 
@@ -112,9 +127,16 @@
 ---
 
   
-### ⚡ Fun Fact: I solved Facebook App Events integration headaches by creating a NuGet package! 
-  
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=anasthenis.anasthenis)
+### ⚡ Fun Fact
+**I turned Facebook App Events integration headaches into a NuGet package that developers actually enjoy using!** 📦✨
+
+<br>
+
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=anasthenis.anasthenis&style=flat-square&color=brightgreen)
+
+*Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
+</div>
 
 ---
 
