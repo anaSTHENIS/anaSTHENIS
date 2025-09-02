@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm anaSTHENIS</h1>
-<h3 align="center">A passionate Game developer and web and mobile developer from Greece! 🇬🇷</h3>
+<h1>Hi 👋, I'm anaSTHENIS</h1>
+<h3>A passionate Game developer and web and mobile developer from Greece! 🇬🇷</h3>
 
 <div align="center">
 
@@ -17,7 +17,6 @@
 ---
 
 ## 📦 My Latest NuGet Package
-<div align="center">
 
 [![NuGet](https://img.shields.io/nuget/v/Plugin.Maui.FacebookAppEvents.svg?style=for-the-badge&logo=nuget)](https://www.nuget.org/packages/Plugin.Maui.FacebookAppEvents/)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Plugin.Maui.FacebookAppEvents.svg?style=for-the-badge&logo=nuget&color=blue)](https://www.nuget.org/packages/Plugin.Maui.FacebookAppEvents/)
@@ -25,8 +24,6 @@
 **[Plugin.Maui.FacebookAppEvents](https://www.nuget.org/packages/Plugin.Maui.FacebookAppEvents/)**
 
 *A simple .NET MAUI library for Facebook App Events with automatic IDFA/GAID handling*
-
-</div>
 
 ---
 
@@ -105,24 +102,19 @@
 
 ## 🤝 Connect with me
 
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-</div>
 
 ---
 
-<div align="center">
   
 ### ⚡ Fun Fact: I solved Facebook App Events integration headaches by creating a NuGet package! 
   
-![Profile Views](https://komarev.com/ghpvc/?username=anasthenis&color=brightgreen&style=flat-square)
-
-</div>
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=anasthenis.anasthenis)
 
 ---
 
