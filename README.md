@@ -113,26 +113,11 @@
 
 <div align="center">
 
-
-
-## 🤝 Connect with me
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-
----
-
   
 ### ⚡ Fun Fact
 **I turned Facebook App Events integration headaches into a NuGet package that developers actually enjoy using!** 📦✨
 
 <br>
-
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=anasthenis.anasthenis&style=flat-square&color=brightgreen)
 
 *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
 
