@@ -10,13 +10,15 @@
 ---
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anasthenis&theme=onedark&no-frame=true&no-bg=false&margin-w=4&column=7" alt="anasthenis trophies" />
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anasthenis&theme=onedark&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="anasthenis trophies" />
+  </a>
+</p>
 
 ---
 
-## 📦 My Latest NuGet Package
+## 📦 My NuGet Packages
 
 [![NuGet](https://img.shields.io/nuget/v/Plugin.Maui.FacebookAppEvents.svg?style=for-the-badge&logo=nuget)](https://www.nuget.org/packages/Plugin.Maui.FacebookAppEvents/)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Plugin.Maui.FacebookAppEvents.svg?style=for-the-badge&logo=nuget&color=blue)](https://www.nuget.org/packages/Plugin.Maui.FacebookAppEvents/)
