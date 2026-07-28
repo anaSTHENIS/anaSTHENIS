@@ -10,9 +10,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anasthenis&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="anasthenis trophies" />
-</p>
+_The trophy widget is temporarily unavailable._
 
 ---
 
