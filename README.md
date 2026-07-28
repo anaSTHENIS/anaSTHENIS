@@ -11,9 +11,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anasthenis&theme=onedark&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="anasthenis trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=anasthenis&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="anasthenis trophies" />
 </p>
 
 ---
