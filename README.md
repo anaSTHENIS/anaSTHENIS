@@ -28,10 +28,8 @@ _The trophy widget is temporarily unavailable._
 ## 🌱 About Me
 
 - 🔭 Currently working on **mobile apps with .NET MAUI**
-- 🌱 Currently learning **Kotlin** and **SwiftUI**
 - 👨‍💻 All of my projects are on **[my GitHub](https://github.com/anasthenis)**
 - 💬 Ask me about **game development, mobile development, and .NET**
-- ⚡ Fun fact: **I create NuGet packages to solve real problems!**
 
 ---
 
@@ -67,9 +65,7 @@ _The trophy widget is temporarily unavailable._
 ### 🗄️ Databases & Backend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
 </p>
 
 ### 🛠️ Other Tools
@@ -78,44 +74,13 @@ _The trophy widget is temporarily unavailable._
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
 </p>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
-
 <div align="center">
-  
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=anasthenis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasthenis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anasthenis&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anasthenis&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Fun Fact
-**I turned Facebook App Events integration headaches into a NuGet package that developers actually enjoy using!** 📦✨
-
-<br />
 
 *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
 
