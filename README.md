@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm anaSTHENIS</h1>
+<h1 align="center">Hi 👋, I'm Dimosthenis</h1>
 <h3 align="center">A passionate game developer and web & mobile developer from Greece! 🇬🇷</h3>
 
 <div align="center">
